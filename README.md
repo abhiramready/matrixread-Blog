@@ -21,7 +21,7 @@
 
 * CDN - Content Delivery Network, SEO - Search engine optimization
 
-## Changelog 📋
+## 📋 Changelog
 
 ### matrixRead 1.0
 
