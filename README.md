@@ -5,7 +5,7 @@
 ## 🛠️ Techstack
 
 💭 [Giscus](https://giscus.app/) Comment System  
-🌩️ [CloudFlare](https://www.cloudflare.com) CDN and Caching  
+🌩️ [Cloudflare](https://www.cloudflare.com) CDN and Caching  
 🏗️ [WordPress](https://wordpress.com/) Content Management  
 🌈 [Prism.js](https://prismjs.com/) Code Syntax Highlighting  
 🎨 Minimal UI theme with custom CSS 
@@ -24,7 +24,7 @@ CDN - Content Delivery Network, SEO - Search engine optimization
 
 ### matrixread 1.0
 
-| 📅 Released on July 2020                                                                          |
+| 📅 Released in July 2020                                                                          |
 |---------------------------------------------------------------------------------------------------|
 | 🚀 Launched on 1st of July 2020                                                                   |
 | 🏗️ Initial build with [WordPress](https://wordpress.com/)                                         |
@@ -33,16 +33,16 @@ CDN - Content Delivery Network, SEO - Search engine optimization
 
 ### matrixread 2.0
 
-| 📅 Released on October 2020                                                                       |
+| 📅 Released in October 2020                                                                       |
 |---------------------------------------------------------------------------------------------------|
 | 🔍 Optimized SEO and MetaData                                                                     |
 | 🔒 Force HTTPS for improved Security                                                              |
-| 🌩️ Added [CloudFlare](https://www.cloudflare.com) CDN for Caching                                 |
+| 🌩️ Added [Cloudflare](https://www.cloudflare.com) CDN for Caching                                 |
 | 🌈 Code Syntax Highlighting with [Prism.js](https://prismjs.com/)                                 |
 
 ### matrixread 3.0
 
-| 📅 Released on May 2021                                                                           |
+| 📅 Released in May 2021                                                                           |
 |---------------------------------------------------------------------------------------------------|
 | 🎨 Migrated from default WordPress theme to [Neve](https://wordpress.org/themes/neve/) and custom CSS for clean UI |
 | ⬇️ Decreased WordPress plugin count from 20 to 10 = Performance ++                                                       |
