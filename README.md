@@ -22,7 +22,7 @@ CDN - Content Delivery Network, SEO - Search engine optimization
 
 ## 📋 Changelog
 
-### matrixRead 1.0
+### matrixread 1.0
 
 | 📅 Released on July 2020                                                                          |
 |---------------------------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ CDN - Content Delivery Network, SEO - Search engine optimization
 | 💯 Pagespeed Insights **99**, GTmetrix **A** Rating                                               |
 | ▶️ [Demo on YouTube](https://www.youtube.com/watch?v=lnvsuNZURR0)                                 |
 
-### matrixRead 2.0
+### matrixread 2.0
 
 | 📅 Released on October 2020                                                                       |
 |---------------------------------------------------------------------------------------------------|
@@ -40,7 +40,7 @@ CDN - Content Delivery Network, SEO - Search engine optimization
 | 🌩️ Added [CloudFlare](https://www.cloudflare.com) CDN for Caching                                 |
 | 🌈 Code Syntax Highlighting with [Prism.js](https://prismjs.com/)                                 |
 
-### matrixRead 3.0
+### matrixread 3.0
 
 | 📅 Released on May 2021                                                                           |
 |---------------------------------------------------------------------------------------------------|
