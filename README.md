@@ -1,8 +1,5 @@
-<h1 align="center">
-	🌏Worlds 🚀Fastest 📰Blog
-</h1>
 <h3 align="center">
-<a href="https://matrixread.com/">MATRIXREAD</a>
+<a href="https://matrixread.com/">matrixread.com</a>
 </h3>
 
 ## 🔥 Highlights
