@@ -12,7 +12,7 @@
 
 ## Changelog 📋
 
-## matrixread 1.0
+### matrixread 1.0
 
 📅 Released on July 2020  
 🚀 Launched on 1st of July 2020  
@@ -20,7 +20,7 @@
 💯 Pagespeed Insights **99**, GTmetrix **A** Rating  
 ▶️ [Demo on YouTube](https://www.youtube.com/watch?v=lnvsuNZURR0)
 
-## matrixread 2.0
+### matrixread 2.0
 
 📅 Released on October 2020  
 🔍 Optimized SEO and MetaData    
@@ -28,7 +28,7 @@
 🌩️ Added [CloudFlare](https://www.cloudflare.com) CDN for Caching  
 🌈 Code Syntax Highlighting with [Prism.js](https://prismjs.com/)
 
-## matrixread 3.0
+### matrixread 3.0
 
 📅 Released on May 2021  
 🎨 Migrated from default WordPress theme to [Neve theme](https://wordpress.org/themes/neve/) and custom CSS for clean UI  
