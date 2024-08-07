@@ -11,7 +11,7 @@
 🎨 Minimal UI theme with custom CSS 
    
 
-## 🔥 Highlights
+## ✨ Highlights
 
 🚀 Launched on 1st of July 2020  
 🔍 Attracts over 20000 visitors annually  
