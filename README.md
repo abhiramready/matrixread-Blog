@@ -6,7 +6,7 @@
 
 💭 [Giscus](https://giscus.app/) Comment System  
 🌩️ [Cloudflare](https://www.cloudflare.com) CDN and Caching  
-🏗️ [WordPress](https://wordpress.com/) Content Management  
+📝 [WordPress](https://wordpress.com/) Content Management  
 🌈 [Prism.js](https://prismjs.com/) Code Syntax Highlighting  
 🎨 Minimal UI theme with custom CSS 
    
