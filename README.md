@@ -18,7 +18,7 @@
 💯 Pagespeed Insights **99**, GTmetrix **A** Rating  
 ⚙️ Minimal and optimized plugin configuration for High-Performance  
 📖 By creating this blog I have learned to set up Hosting, Domain, CDN, SEO   
-CDN - Content Delivery Network, SEO - Search engine optimization
+CDN - Content Delivery Network, SEO - Search Engine Optimization
 
 ## 📋 Changelog
 
