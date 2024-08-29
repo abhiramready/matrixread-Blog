@@ -24,7 +24,7 @@ CDN - Content Delivery Network, SEO - Search Engine Optimization
 
 ### matrixread 1.0
 
-| 📅 Released in July 2020                                                                          |
+| 📅 July 2020                                                                          |
 |---------------------------------------------------------------------------------------------------|
 | 🚀 Launched on 1st of July 2020                                                                   |
 | 🏗️ Initial build with [WordPress](https://wordpress.com/)                                         |
@@ -33,7 +33,7 @@ CDN - Content Delivery Network, SEO - Search Engine Optimization
 
 ### matrixread 2.0
 
-| 📅 Released in October 2020                                                                       |
+| 📅 October 2020                                                                       |
 |---------------------------------------------------------------------------------------------------|
 | 🔍 Optimized SEO and MetaData                                                                     |
 | 🔒 Force HTTPS for improved Security                                                              |
@@ -42,7 +42,7 @@ CDN - Content Delivery Network, SEO - Search Engine Optimization
 
 ### matrixread 3.0
 
-| 📅 Released in May 2021                                                                           |
+| 📅 May 2021                                                                           |
 |---------------------------------------------------------------------------------------------------|
 | 🎨 Migrated from default WordPress theme to [Neve](https://wordpress.org/themes/neve/) and custom CSS for clean UI |
 | ⬇️ Decreased WordPress plugin count from 20 to 10 = Performance++                                                       |
