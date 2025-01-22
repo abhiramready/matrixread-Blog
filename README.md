@@ -2,22 +2,22 @@
 <a href="https://matrixread.com/">matrixread.com</a>
 </h1>
 
+🚀 Published articles on Problem Solving, HTML, CSS, JavaScript, and C++ | 20,000+ Annual Views
+
 ## 🛠️ Techstack
 
 💭 [Giscus](https://giscus.app/) Comment System  
 🌩️ [Cloudflare](https://www.cloudflare.com) CDN and Caching  
 📝 [WordPress](https://wordpress.com/) Content Management  
 🌈 [Prism.js](https://prismjs.com/) Code Syntax Highlighting  
-🎨 Minimal UI theme with custom CSS 
-   
+🎨 Personalized and unique CSS theme  
+⚙️ Optimized Hosting, SEO, and CDN Configuration
 
 ## ✨ Highlights
 
 🚀 Launched on 1st of July 2020  
 🔍 Attracts over 20000 visitors annually  
 💯 Pagespeed Insights **99**, GTmetrix **A** Rating  
-⚙️ Minimal and optimized plugin configuration for High-Performance  
-📖 By creating this blog I have learned to set up Hosting, Domain, Content Delivery Network, Search Engine Optimization   
 
 ## 📋 Changelog
 
