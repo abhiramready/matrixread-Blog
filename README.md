@@ -2,7 +2,7 @@
 <a href="https://matrixread.com/">matrixread.com</a>
 </h1>
 
-🚀 Published articles on Problem Solving, HTML, CSS, JavaScript, and C++ | 20,000+ Annual Views
+🚀 Published 100+ articles on Problem Solving, HTML, CSS, JavaScript, and C++ | 20,000+ Annual Views
 
 ## 🛠️ Techstack
 
