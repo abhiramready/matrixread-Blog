@@ -17,7 +17,7 @@
 
 🚀 Launched on 1st of July 2020  
 🔍 Attracts over 20000 visitors annually  
-💯 Pagespeed Insights **99**, GTmetrix **A** Rating  
+💯 LightHouse Score **99/100**, GTmetrix **A** Rating  
 
 ## 📋 Changelog
 
